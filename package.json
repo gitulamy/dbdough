@@ -1,0 +1,19 @@
+{
+  "name": "@gitul/dbdough",
+  "version": "1.0.0",
+  "description": "This is an ORM framework for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitulamy/dbdough.git"
+  },
+  "author": "Hojin Choi <hojin.choi@gmail.com>",
+  "license": "MIT-2.0",
+  "bugs": {
+    "url": "https://github.com/gitulamy/dbdough/issues"
+  },
+  "homepage": "https://github.com/gitulamy/dbdough#readme"
+}
